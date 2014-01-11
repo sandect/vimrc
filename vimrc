@@ -1,10 +1,10 @@
 set nocompatible
 
-if has("gui")
+"if has("gui")
   " Setup pathogen
   filetype off
   call pathogen#runtime_append_all_bundles()
-endif
+"endif
 
 set number
 set ruler

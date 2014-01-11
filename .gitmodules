@@ -16,3 +16,6 @@
 [submodule "bundle/vimerl"]
 	path = bundle/vimerl
 	url = https://github.com/oscarh/vimerl.git
+[submodule "bundle/emmet"]
+	path = bundle/emmet
+	url = http://github.com/mattn/emmet-vim.git
