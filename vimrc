@@ -1,3 +1,4 @@
+set isk+=-
 set nocompatible
 
 "if has("gui")
